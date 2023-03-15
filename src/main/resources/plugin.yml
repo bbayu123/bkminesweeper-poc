@@ -1,0 +1,11 @@
+name: BKMinesweeper
+main: io.github.bbayu123.bkminesweeper.Main
+version: ${project.version}
+author: bbayu
+authors: []
+depend: [BKCommonLib]
+description: Example project for MapDiplays.
+commands:
+    minesweeper:
+        description: Minesweeper command.
+        usage: "\u00A76Usage: /<command> get"
